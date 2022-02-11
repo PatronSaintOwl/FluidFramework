@@ -168,7 +168,7 @@
     "less": "~3.9.0",
     "mocha": "^8.1.1",
     "mocha-junit-reporter": "^1.18.0",
-    "node-sass": "^4.9.3",
+    "node-sass": "^7.0.0",
     "nyc": "^15.0.0",
     "parallel-webpack": "^2.3.0",
     "rimraf": "^2.6.2",
